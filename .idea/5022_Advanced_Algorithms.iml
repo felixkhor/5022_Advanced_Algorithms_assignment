@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../5022_Advanced_algorithms">
+      <excludeFolder url="file://$MODULE_DIR$/../5022_Advanced_algorithms/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="~\PycharmProjects\5022_Advanced_algorithms\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings" />
+  <component name="PyDocumentationSettings" />
+  <component name="ReSTService" />
+  <component name="TestRunnerService" />
+</module>
